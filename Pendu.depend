@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1423683554 source:c:\users\pierre-louis\documents\informatique\codeblocks\pendu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"main.h"
+	"gestionPartie.h"
+	"gestionDicco.h"
+
+1423679677 c:\users\pierre-louis\documents\informatique\codeblocks\pendu\main.h
+
+1423680173 c:\users\pierre-louis\documents\informatique\codeblocks\pendu\gestionpartie.h
+
+1423683530 c:\users\pierre-louis\documents\informatique\codeblocks\pendu\gestiondicco.h
+
+1423683515 source:c:\users\pierre-louis\documents\informatique\codeblocks\pendu\gestionpartie.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1423683480 source:c:\users\pierre-louis\documents\informatique\codeblocks\pendu\gestiondicco.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+	"main.h"
+
